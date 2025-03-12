@@ -39,6 +39,7 @@ dependencies:
   - spacy-loggers=1.0.5
   - portalocker=3.0.0
   - transformers=4.32.1
+  - accelerate=0.30.1
 
       
       

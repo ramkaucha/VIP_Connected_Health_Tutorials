@@ -3,5 +3,5 @@ torch==2.1.2+cu121
 torchvision==0.16.2+cu121
 
 --extra-index-url https://pypi.org/simple
-torchtext==0.17.2
-torchdata==0.7.0
+torchtext==0.16.2+cpu
+torchdata==0.7.1
