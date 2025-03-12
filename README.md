@@ -27,3 +27,7 @@ Topics from ML to LLMs
     `python -m spacy download en_core_web_sm`
 
     `python -m spacy download de_core_news_sm`
+
+## Lesson Recordings
+
+Past lesson recordings are located [here](https://unsw-my.sharepoint.com/:f:/g/personal/z5162987_ad_unsw_edu_au/EmKJINwUlSFEjUL42NKSA5gBT8OaMQOYu2TnMXY3khpzuw?e=LEqdQe)
