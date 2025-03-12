@@ -1,0 +1,6 @@
+torch==2.1.2+cpu
+torchvision==0.16.2+cpu
+
+--extra-index-url https://pypi.org/simple
+torchtext==0.16.2+cpu
+torchdata==0.7.1
